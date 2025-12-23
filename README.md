@@ -14,6 +14,8 @@ Offline Data Search Tool is a local, offline utility that allows searching acros
 ## Usage
 python main.py
 
+<img width="600" height="700" alt="Screenshot 2025-12-23 155403" src="https://github.com/user-attachments/assets/7674e7a3-641b-4eec-b01a-c5b931253a0a" />
+
 
 <img width="600" height="700" alt="Screenshot 2025-12-23 153501" src="https://github.com/user-attachments/assets/b2e47629-c05d-41b1-bd3b-2f21c001bddb" />
 
