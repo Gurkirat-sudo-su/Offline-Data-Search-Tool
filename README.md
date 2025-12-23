@@ -3,6 +3,9 @@
 
 **Author:** Gurkirat Singh
 
+**Username:** **admin**
+**Password:** **admin123**
+
 Offline Data Search Tool is a local, offline utility that allows searching across multiple data sources such as SQLite (.db) and CSV files using phone numbers or email addresses.
 
 ## Features
